@@ -31,7 +31,8 @@ the National Science Foundation.
 <!-- ****** License ****** -->
 License
 -------
-What is GNU AFFERo
+What is GNU AFFERO
+Confussion but appeare to be still a GNU license.
  GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
 
 <!-- ****** Disclaimer ****** -->
